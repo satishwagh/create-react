@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Spinning wheel
+          This webpage created in docker. Pushed to master branch on Github. "Github Action" triggered once master branch receives any update. "Github Action" pushes the result to AWS to host it on EB. Result is this page.
         </p>
         <a
           className="App-link"
