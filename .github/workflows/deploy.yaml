@@ -25,5 +25,5 @@ jobs:
            environment_name: DockerApp-env
            existing_bucket_name: elasticbeanstalk-us-east-1-714653408569
            region: us-east-1
-           version_label: sample
+           version_label: Sample
            deployment_package: deploy.zip
